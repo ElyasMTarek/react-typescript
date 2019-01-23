@@ -2,7 +2,7 @@
   "name": "my-app-ts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://hadnazzar.github.io/react-typescript",
+  "homepage": "https://elyasmtarek.github.io/react-typescript/",
   "dependencies": {
     "@sentry/browser": "^4.5.2",
     "@types/jest": "23.3.12",
